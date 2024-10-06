@@ -1,0 +1,3 @@
+#i'm stupid enough to forgot to exclude node modules bruh
+node_modules/
+*.env
